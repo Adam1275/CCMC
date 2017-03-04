@@ -4,7 +4,7 @@ if(isset($_POST['email'])) {
 
     $email_to = "jamesadamchambers@btinternet.com";
      
-    $email_subject = "website html form submissions";
+    $email_subject = "CCMC TEST website html form submissions";
      
      
     function died($error) {
